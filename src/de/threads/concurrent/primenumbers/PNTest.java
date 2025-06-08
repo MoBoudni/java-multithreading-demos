@@ -10,7 +10,7 @@ import java.util.Set;
  * mehreren Threads.
  * </p>
  *
- * @author [Ihr Name]
+ * @author MoBoudni
  * @version 1.0
  */
 public class PNTest {

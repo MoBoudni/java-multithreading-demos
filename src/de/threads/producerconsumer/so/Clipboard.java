@@ -10,7 +10,7 @@ package de.threads.producerconsumer.so;
  * verarbeitet hat, und verhindert, dass der Konsument versucht zu lesen, wenn kein Element verfügbar ist.
  * </p>
  *
- * @author [Ihr Name]
+ * @author MoBoudni
  * @version 1.0
  */
 public class Clipboard {

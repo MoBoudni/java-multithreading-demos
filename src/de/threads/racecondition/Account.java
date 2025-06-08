@@ -26,7 +26,7 @@ public class Account {
    * 
    * @param amount Der abzuhebende Betrag
    * @return true, wenn die Abhebung erfolgreich war (genügend Guthaben vorhanden);
-   *         false, wenn nicht genügend Guthaben vorhanden ist
+   * false, wenn nicht genügend Guthaben vorhanden ist
    */
   public boolean withdraw (int amount) { 
       

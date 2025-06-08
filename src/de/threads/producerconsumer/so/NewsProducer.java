@@ -8,7 +8,7 @@ package de.threads.producerconsumer.so;
  * des Erzeuger-Verbraucher-Musters mit korrekter Thread-Synchronisation.
  * </p>
  *
- * @author [Ihr Name]
+ * @author MoBoudni
  * @version 1.0
  */
 public class NewsProducer extends Thread {
